@@ -57,6 +57,8 @@ python3 -m Python_Challenge
 - Using --ext with --only-dir
 - Missing argument while using --ext
 
+These cases have been handled in the demo video. Link to the demo: https://drive.google.com/file/d/1MXREchBSY_8MBsrkGqadKMTQ8U2J-J1I/view?usp=sharing 
+
 ## Opportunities
 The following are some features which could be added or alternate libraries that could be used:
 - os library. Using this would change the approach to perform the search operation.
